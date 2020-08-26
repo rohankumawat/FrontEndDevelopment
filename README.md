@@ -2,7 +2,7 @@
 
 ***Hello!!***
 
-I'm maintaining this repo solely for the purpose of brushing up my DS Algo concepts before an interview.
+I'm maintaining this repo solely for the purpose of learning Front-end development.
 
 **Day 1:** Web and HTML basics
 
