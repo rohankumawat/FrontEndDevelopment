@@ -1,0 +1,24 @@
+.pedri{
+    color: teal;
+    font-size: medium;
+}
+
+#messi{
+    color: maroon;
+}
+
+div p.para1{
+    color: royalblue;
+}
+
+h1{
+    color: tomato;
+}
+
+div.pedri h1{
+    color: black;
+}
+
+a[href*="bleacherreport"]{
+    color: chartreuse;
+}
