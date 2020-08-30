@@ -13,3 +13,5 @@ I'm maintaining this repo solely for the purpose of learning Front-end developme
 **Day 4:** HTML basics practice, HTML form, Radiobox Myth, CSS basics
 
 **Day 5:** Classes, Selectors, Inline and block level elements
+
+**Day 6:** HTML Semantics, Chrome Dev Tools, CSS Layout and Position
