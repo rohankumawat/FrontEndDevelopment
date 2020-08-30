@@ -1,0 +1,28 @@
+header{
+    
+}
+
+.campnou{
+    position: relative;
+}
+
+.campnou img{
+    max-width: 100%;
+}
+
+.campnou .welcome{
+    background-color: blue;
+    color: red;
+    padding: 30px;
+    position: absolute;
+    left: 0;
+    top: 30%;
+}
+
+.campnou h2{
+    font-size: 40px;
+}
+
+.campnou h2 span{
+    font-size: 1.3em;
+}
