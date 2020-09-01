@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+/* Making square */
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    border: 2px solid black;
+    margin: 50px;
+    /*transition: 1s;*/
+    /*transition: background 1s, transform 5s 1s linear;*/
+    transition: background 1s, transform 5s 1s ease-in;
+}
+
+/*.text{
+    text-align: center;
+}*/
+
+/* Transforms */
+
+/*div:hover{
+    transform: translateX(50px) rotate(30deg);
+}*/
+
+/*div:hover{
+    transform: rotate(-30deg);
+}*/
+
+.square:hover{
+    /*transform: scale(2,3);*/
+    /*transform: scaleX(2);*/
+    /*transform: skewX(20deg);*/
+    /*transform: skew(20deg, 30deg);*/
+    /*transform: matrix(1,2,6,2,1,2);*/
+    background-color: salmon;
+    transform: rotate(360deg);
+}
