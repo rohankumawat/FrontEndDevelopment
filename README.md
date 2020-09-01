@@ -17,3 +17,5 @@ I'm maintaining this repo solely for the purpose of learning Front-end developme
 **Day 6:** HTML Semantics, Chrome Dev Tools, CSS Layout and Position
 
 **Day 7:** Pseudo Classes, Pseudo Elements and Media Queries
+
+**Day 8:** Transforms, Transitions
