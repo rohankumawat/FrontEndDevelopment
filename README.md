@@ -15,3 +15,5 @@ I'm maintaining this repo solely for the purpose of learning Front-end developme
 **Day 5:** Classes, Selectors, Inline and block level elements
 
 **Day 6:** HTML Semantics, Chrome Dev Tools, CSS Layout and Position
+
+**Day 7:** Pseudo Classes, Pseudo Elements and Media Queries
